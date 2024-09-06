@@ -1,8 +1,8 @@
 git init <br>
-git status -> check
-git add .
-git commit -m "blabla"
-CREATE REPO ON GITHUB
-git remote add origin SHH-LINK
-git remote -v -> test
-git push -u origin main
+git status -> check <br>
+git add . <br>
+git commit -m "blabla" <br>
+CREATE REPO ON GITHUB <br>
+git remote add origin SHH-LINK <br>
+git remote -v -> test <br>
+git push -u origin main <br>
