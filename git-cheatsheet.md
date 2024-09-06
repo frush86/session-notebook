@@ -1,4 +1,4 @@
-git init
+git init <b>
 git status -> check
 git add .
 git commit -m "blabla"
